@@ -1,7 +1,5 @@
 name: [Name] Able-Nation, Able Shepherd, and Stand in the Gap Initiative Repeaters
 title: [Title] Repeaters home page
 description: [Description] This site describes the repeaters
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 show_downloads: false
